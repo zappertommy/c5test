@@ -12,7 +12,7 @@ File: Navigation CSS
 #header ul{margin:0; padding:0; list-style:none;}
 #header li{display:inline; margin-right:35px;}
 #header li a:link, #header li a:visited, #header li a:hover{margin:0; padding:0 3px 10px 3px; color:#FFFFFF; background-color:#232323; border-bottom:1px solid #232323;}
-#header li a:hover, #header li.active a{color:#FDC609; background-color:#232323; border-bottom-color:#FDC609;}
+#header li a:hover, #header li.nav-path-selected a{color:#FDC609; background-color:#232323; border-bottom-color:#FDC609;}
 #header #topnav li.last{margin-right:0;}
 
 /* ----------------------------------------------Column Navigation------------------------------------- */
